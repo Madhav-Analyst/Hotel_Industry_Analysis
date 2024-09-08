@@ -3,7 +3,8 @@
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 A card visual was used to represent count of customers.
 
-![Snap_Count](![Screenshot 2024-06-13 145024](https://github.com/user-attachments/assets/02dbe053-9afe-4f76-a513-e134f6adefb2)
+Dashboard Sample 
+(![Screenshot 2024-06-13 145024](https://github.com/user-attachments/assets/02dbe053-9afe-4f76-a513-e134f6adefb2)
 )
 
 ## Problem Statement
