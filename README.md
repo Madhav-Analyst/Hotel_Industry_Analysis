@@ -1,6 +1,9 @@
 # Hotel_Industry_Analysis
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+A card visual was used to represent count of customers.
+
+![Snap_Count](https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg)
 
 ## Problem Statement
 
